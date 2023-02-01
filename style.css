@@ -1,0 +1,13 @@
+*
+{
+    text-align: center;
+    background-color: rgb(223, 223, 223);
+    margin-top: 2%;
+    font-family: 'Apple Chancery', cursive;
+}
+
+input, select
+{
+    border-radius: 12px;
+    background-color: whitesmoke;
+}
